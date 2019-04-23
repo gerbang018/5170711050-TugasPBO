@@ -1,0 +1,6 @@
+Pada Program ini menggunakan teori pewarisan,metode overriding dan acces protected dengan class pewarisnya adalah manusia.
+Disini saya mewariskan ciri-ciri pada suatu keluarga Ibu,Ayah,Kakak,Adik1,Adik2, dan Bungsu.
+Dimana Kakak mewarisi ciri-ciri sifat dan fisik dari Ibu
+Adik1 mewarisi ciri - ciri sifat dan fisik Ibu. Adik2 mewarisi sifat dan ciri-ciri fisik Ayah. 
+Dan Bungsu mewarisi ciri-ciri dan sifat dari Ayah dan Ibu dari Kakak dan Adik1 dan Adik2
+menggunakan Override dan Method 
